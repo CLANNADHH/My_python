@@ -24,4 +24,4 @@ class Change_Time(object):
 if __name__ == "__main__":
   stamp_change = Change_Time()
   # 默认不输入时间戳就会取当前时间戳
-  stamp_chamge()
+  print(stamp_chamge())
